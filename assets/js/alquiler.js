@@ -56,7 +56,7 @@ const alquilerPropiedades = [
     },
     {
         nombre: 'Jofre 135',
-        src: './assets/img/Jofre.png',
+        src: './assets/img/jofre.png',
         descripcion: 'Este elegante condominio moderno está ubicado en una tranquila zona residencial',
         ubicacion: 'Santiago, Jofre N° 135',
         habitaciones: 2,
